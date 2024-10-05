@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|c:\\users\\mmust\\onedrive\\masa\u00FCst\u00FC\\mustafa k\u00F6se\\projeler\\web\\yemek tarifi sitesi\\sqlveritaban\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|solutionrelative:sqlveritaban\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\gununyemegi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|solutionrelative:gununyemegi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\gununyemegi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|solutionrelative:gununyemegi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|solutionrelative:anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\adminyemekd\u00FCzenleme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|solutionrelative:adminyemekd\u00FCzenleme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\adminyemekdetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|solutionrelative:adminyemekdetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\adminyemekd\u00FCzenleme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E52310-B1F0-4E3B-9642-CD0E9F09FA40}|Yemek Tarifi Sitesi.csproj|solutionrelative:adminyemekd\u00FCzenleme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sqlVeritaban\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\sqlVeritaban\u0131.cs",
+              "RelativeDocumentMoniker": "sqlVeritaban\u0131.cs",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\sqlVeritaban\u0131.cs",
+              "RelativeToolTip": "sqlVeritaban\u0131.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:53:42.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-17T12:53:31.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Anasayfa.aspx",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\Anasayfa.aspx",
+              "RelativeDocumentMoniker": "Anasayfa.aspx",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\Anasayfa.aspx",
+              "RelativeToolTip": "Anasayfa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-30T08:27:29.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "adminYemekDetay.aspx",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\adminYemekDetay.aspx",
+              "RelativeDocumentMoniker": "adminYemekDetay.aspx",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\adminYemekDetay.aspx",
+              "RelativeToolTip": "adminYemekDetay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-30T07:40:51.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gununyemegi.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\gununyemegi.aspx.cs",
+              "RelativeDocumentMoniker": "gununyemegi.aspx.cs",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\gununyemegi.aspx.cs",
+              "RelativeToolTip": "gununyemegi.aspx.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:32:45.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gununyemegi.aspx",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\gununyemegi.aspx",
+              "RelativeDocumentMoniker": "gununyemegi.aspx",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\gununyemegi.aspx",
+              "RelativeToolTip": "gununyemegi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-30T07:32:21.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adminYemekD\u00FCzenleme.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\adminYemekD\u00FCzenleme.aspx.cs",
+              "RelativeDocumentMoniker": "adminYemekD\u00FCzenleme.aspx.cs",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\adminYemekD\u00FCzenleme.aspx.cs",
+              "RelativeToolTip": "adminYemekD\u00FCzenleme.aspx.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:31:17.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adminYemekD\u00FCzenleme.aspx",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\adminYemekD\u00FCzenleme.aspx",
+              "RelativeDocumentMoniker": "adminYemekD\u00FCzenleme.aspx",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\Yemek Tarifi Sitesi\\adminYemekD\u00FCzenleme.aspx",
+              "RelativeToolTip": "adminYemekD\u00FCzenleme.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-30T07:29:34.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

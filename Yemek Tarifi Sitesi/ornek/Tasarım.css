@@ -1,0 +1,19 @@
+﻿.Buton {
+    height:40px;
+    width:120px;
+    background-color:#ff6a00;
+    color:white;
+    font-size:18pt;
+}
+.lbl {
+    background-color:yellow;
+    font-size:medium;
+    color:blue
+}
+.div {
+    background-color:pink;
+    width:500px;
+    height:100px;
+    margin-left:50px;
+    margin-top:50px;
+}
